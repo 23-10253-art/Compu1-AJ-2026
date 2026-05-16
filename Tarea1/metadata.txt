@@ -1,0 +1,41 @@
+Se utilizó IA para resolver el Ejercicio 1.
+Modelo utilizado: Gemini 1.5 Pro.
+Prompts utilizados:
+1. "hoy voy a hacer una actividad"
+2. "es una tarea de la uni"
+3. "priero voy a mandarte los lineamientos"
+4. [Estos ejercicios DEBEN responderse dentro del archivo ex.z
+Ejercicio 1
+
+Este nivel de uso de IA se llama: "AI discouraged". El lógico-matemático Augustus De Morgan descubrió estos teoremas en el siglo XIX:
+La negación de «P y Q» es lo mismo que «no P o no Q» La negación de «P o Q» es lo mismo que «no P y no Q»
+Es decir, usando
+¬(P∧Q)≡¬P∨¬Q
+¬(P∨Q)≡¬P∧¬Q
+Escriba dos expresiones (una para cada teorema) que representen las leyes de DeMorgan.
+La expresion1 DEBE ser una funcion, y DEBE asignarse a la variable de_morgan1.
+La expresion2 DEBE ser una funcion, y DEBE asignarse a la variable de_morgan2.]
+5. "Z => Z => Z de_morgan1 := 5; Z => Z => Z de_morgan2 := 5; Z => Z succ := 5;"
+6. "usa and, or, not y =="
+Se utilizó IA para resolver el Ejercicio 2.
+Modelo utilizado: Gemini 1.5 Pro.
+Prompts utilizados:
+7. "si hay otros 4 ejercicios"
+8. [Ejercicio 2
+
+Este nivel de uso de IA se llama: "AI discouraged".
+Defina una abstracción funcional llamada succ, tal que succ(z) computa z + 1.
+succ(-100) retorna (99)
+succ(7) retorna (8)]
+Se utilizó IA para resolver el Ejercicio 3.
+Modelo utilizado: Gemini 1.5 Pro.
+Prompts utilizados:
+9. "este es el codigo ex.cxx [código base]"
+Ejercicio 4:
+Se utilizó IA ("AI encouraged").
+Modelo de IA utilizado: Gemini 1.5 Pro.
+(Los prompts de este ejercicio fueron guardados localmente como recomendó el profesor).
+Ejercicio 5:
+Se utilizó IA para planificar la lógica de las funciones de conversión de bases numéricas (Base 7, Base 8, Base 10 y Base 16). 
+Modelo utilizado: Gemini 1.5 Pro.
+(Los prompts de este ejercicio también fueron guardados).
